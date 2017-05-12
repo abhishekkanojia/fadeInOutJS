@@ -8,10 +8,20 @@
 
 	 	
 	 	2. brag: array of strings you want to show repeatedly one after the other.
+## Dependencies
+
+	**JQuery version 1.11.1**
+	
+	```javascript
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>```
+
 
 ## Usage
 
-**Include fadeInOut.js file on your html page.**
+**Include fadeInOut.js file on your html page along with Jquery 1.11.1**
+
+```javascript
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>```
 
 ```javascript
 <script type="text/javascript" src="/path/to/fadeInOut.js"></script>
@@ -41,7 +51,7 @@
 ```	
 	
 --------------------------
-See [Demo](https://abhishekkanojia.github.io)
+See [Demo](https://abhishekkanojia.github.io/fadeInOutJS)
 
 
 	

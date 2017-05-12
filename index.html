@@ -10,13 +10,35 @@
 	
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 card">
 				<h1>FadeInOut - Js</h1>
 				<h3 class="fader"></h3>
 			</div>
 		</div>
 	</div>
 
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/fadeInOut.js"></script>
+<script>
+	
+	/* 
+		".fader" given in following snippet is element's class 
+		that is be used by fadeInOut-js to display text.
+	 	you can use any element's class or id that you like.
+	*/
+	$(document).ready(function(){
+	
+		$(".fader").fadeInOut({
+			timeInterval: 3000,
+			brag: ['I am a Freelance Developer',
+					'A Hobbyist',
+					'Out of Box Thinker',
+					'And You\'re',
+					'An Awesome Visitor'
+				  ]
+		});
+	});
+</script>
 
 	
 </body>

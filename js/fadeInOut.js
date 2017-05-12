@@ -1,5 +1,5 @@
 /*
-	I don't comment usually.
+	I don't comment usually. :P
 	but let me make it easy for you
 	to use FadeInOut.js
 
