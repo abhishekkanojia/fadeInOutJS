@@ -12,20 +12,14 @@
 
 	**JQuery version 1.11.1**
 	
-	```javascript
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>```
-
 
 ## Usage
 
 **Include fadeInOut.js file on your html page along with Jquery 1.11.1**
 
-```javascript
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>```
+```<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>```
 
-```javascript
-<script type="text/javascript" src="/path/to/fadeInOut.js"></script>
-```
+```<script type="text/javascript" src="/path/to/fadeInOut.js"></script>```
 
 ``` javascript
 <script>
