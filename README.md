@@ -1,11 +1,14 @@
-# FadeInOut Js - lets you apply fadeInOut effect to list of text provided by changing them one by one.
+# FadeInOut Js 
+## lets you apply fadeInOut effect to list of text provided by changing them one by one.
 
 --------------
-	## Usage
+	** Usage **
 --------------
 Include fadeInOut.js file on your html page.
 
-`<script type="text/javascript" src="/path/to/fadeInOut.js"></script>`
+```javascript
+<script type="text/javascript" src="/path/to/fadeInOut.js"></script>
+```
 ``` javascript
 <script>
 	
@@ -18,9 +21,11 @@ Include fadeInOut.js file on your html page.
 	 	
 	********/
 	
-	// ".fader" given in following snippet is element class that is be used by fadeInOut-js to display text.
-	// you can use any element's class or id that you like.
-
+	/* 
+		*.fader* given in following snippet is element class 
+		that is be used by fadeInOut-js to display text.
+	 	you can use any element's class or id that you like.
+	*/
 	$(document).ready(function(){
 	
 		$(".fader").fadeInOut({
@@ -37,9 +42,7 @@ Include fadeInOut.js file on your html page.
 ```	
 	
 --------------------------
-Demo can be seen on my website.
-
-[https://abhishekkanojia.github.io]
+See [Demo](https://abhishekkanojia.github.io)
 
 
 	
