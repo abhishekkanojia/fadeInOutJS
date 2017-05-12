@@ -1,15 +1,17 @@
 # FadeInOut Js 
-## lets you apply fadeInOut effect to list of text provided by changing them one by one.
+## Lets you apply fadeInOut effect to list of text provided by changing them one by one.
 
-It takes only two parameters:
-	 	- timeInterval: time after which text is changed (in milliseconds). e.g 3000 means 3 second.
+
+**It takes only two parameters:**
 	 	
-	 	- brag: array of strings you want to show repeatedly one after the other.
+		1. timeInterval: time after which text is changed (in milliseconds). e.g 3000 means 3 second.
 
---------------
-	**Usage**
---------------
-Include fadeInOut.js file on your html page.
+	 	
+	 	2. brag: array of strings you want to show repeatedly one after the other.
+
+## Usage
+
+**Include fadeInOut.js file on your html page.**
 
 ```javascript
 <script type="text/javascript" src="/path/to/fadeInOut.js"></script>
