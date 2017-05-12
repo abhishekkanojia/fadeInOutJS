@@ -1,0 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300);
+
+html,body{
+	overflow-x: hidden;
+	font-style: 'Raleway';
+}
+h1{
+	font-size: 80px;
+}

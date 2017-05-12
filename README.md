@@ -2,9 +2,9 @@
 ## lets you apply fadeInOut effect to list of text provided by changing them one by one.
 
 It takes only two parameters:
-	 	1. timeInterval: time after which text is changed (in milliseconds). e.g 3000 means 3 second.
+	 	- timeInterval: time after which text is changed (in milliseconds). e.g 3000 means 3 second.
 	 	
-	 	2. brag: array of strings you want to show repeatedly one after the other.
+	 	- brag: array of strings you want to show repeatedly one after the other.
 
 --------------
 	**Usage**
