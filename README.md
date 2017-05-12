@@ -1,12 +1,12 @@
 # FadeInOut Js - lets you apply fadeInOut effect to list of text provided by changing them one by one.
 
 --------------
-	Usage
+	## Usage
 --------------
 Include fadeInOut.js file on your html page.
 
-<script type="text/javascript" src="/path/to/fadeInOut.js"></script>
-
+`<script type="text/javascript" src="/path/to/fadeInOut.js"></script>`
+``` javascript
 <script>
 	
 	/**********
@@ -33,9 +33,13 @@ Include fadeInOut.js file on your html page.
 				  ]
 		});
 	});
-</script>	
+</script>
+```	
 	
 --------------------------
 Demo can be seen on my website.
 
-https://abhishekkanojia.github.io	
+[https://abhishekkanojia.github.io]
+
+
+	
