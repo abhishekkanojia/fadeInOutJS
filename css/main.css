@@ -6,20 +6,56 @@ html,body{
 }
 .card{
 	padding-top: 50px;
-	margin-top: 200px;
+	margin-top: 150px;
 	text-align: center;
 	display: block;
+	vertical-align: middle;
+}
+h1,h2,h3,
+h4,h5,h6{
+	font-family: 'Raleway';
 }
 h1{
 	font-size: 100px;
-	font-family: 'Raleway';
 	font-weight: 200 !important;
 }
 h3{
 	font-size: 50px;
-	font-family: 'Raleway';
 	font-weight: 200 !important;	
 }
+h4{
+	font-size: 40px;
+	font-weight: 200;
+}
+h5{
+	font-size: 35px;
+	font-weight: 200;
+}
+.strike{
+	text-decoration: line-through;
+}
 .space{
-	margin-top: 20px;
+	margin-top: 150px;
+}
+.javascript{
+	white-space: pre;
+}
+
+.code:hover{
+	text-decoration: none;
+}
+.font{
+	font-family: 'Raleway';
+}
+.info{
+	font-size: 17px;
+}
+.wrap-code{
+	padding: 10px 10px;
+	border:1px solid grey;
+}
+blockquote{
+	border-top:1px solid #eee;
+	border-right: 5px solid #eee;
+	border-bottom: 1px solid #eee;
 }
